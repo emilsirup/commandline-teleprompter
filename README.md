@@ -20,3 +20,7 @@ If the program isn't functioning, try to import keyboard with pip.
 ```
     pip install keyboard
 ```
+
+## Screenshots
+
+![App Screenshot](https://imgur.com/a/xqugxRV)
