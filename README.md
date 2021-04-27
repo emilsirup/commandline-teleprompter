@@ -23,4 +23,4 @@ If the program isn't functioning, try to import keyboard with pip.
 
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/xqugxRV)
+![App Screenshot](https://ibb.co/JnhQs6Q)
