@@ -11,7 +11,12 @@ Locate the directory you've downloaded the project in, and run the main.py file 
 ```
 PS: If you want to have spaces in your titlecard, add quotes around it.
 ## Usage/Examples
-
 ```
     py main.py -f C:\Users\47983\Desktop\foobar.txt -s 60 -tc "Hey Jude"
+```
+To start the teleprompter, press space.
+
+If the program isn't functioning, try to import keyboard with pip.
+```
+    pip install keyboard
 ```
